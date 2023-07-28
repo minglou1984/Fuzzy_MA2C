@@ -1,0 +1,282 @@
+2022-02-17 07:10:11,061 [INFO] Env: init 25 node information:
+nt1:
+	neigbor: ['nt6', 'nt2']
+	ilds_in: ['nt6_nt1_0', 'nt2_nt1_0', 'nt2_nt1_1', 'np1_nt1_0', 'np20_nt1_0', 'np20_nt1_1']
+nt10:
+	neigbor: ['nt15', 'nt5', 'nt9']
+	ilds_in: ['nt15_nt10_0', 'np7_nt10_0', 'np7_nt10_1', 'nt5_nt10_0', 'nt9_nt10_0', 'nt9_nt10_1']
+nt11:
+	neigbor: ['nt16', 'nt12', 'nt6']
+	ilds_in: ['nt16_nt11_0', 'nt12_nt11_0', 'nt12_nt11_1', 'nt6_nt11_0', 'np18_nt11_0', 'np18_nt11_1']
+nt12:
+	neigbor: ['nt17', 'nt13', 'nt7', 'nt11']
+	ilds_in: ['nt17_nt12_0', 'nt13_nt12_0', 'nt13_nt12_1', 'nt7_nt12_0', 'nt11_nt12_0', 'nt11_nt12_1']
+nt13:
+	neigbor: ['nt18', 'nt14', 'nt8', 'nt12']
+	ilds_in: ['nt18_nt13_0', 'nt14_nt13_0', 'nt14_nt13_1', 'nt8_nt13_0', 'nt12_nt13_0', 'nt12_nt13_1']
+nt14:
+	neigbor: ['nt19', 'nt15', 'nt9', 'nt13']
+	ilds_in: ['nt19_nt14_0', 'nt15_nt14_0', 'nt15_nt14_1', 'nt9_nt14_0', 'nt13_nt14_0', 'nt13_nt14_1']
+nt15:
+	neigbor: ['nt20', 'nt10', 'nt14']
+	ilds_in: ['nt20_nt15_0', 'np8_nt15_0', 'np8_nt15_1', 'nt10_nt15_0', 'nt14_nt15_0', 'nt14_nt15_1']
+nt16:
+	neigbor: ['nt21', 'nt17', 'nt11']
+	ilds_in: ['nt21_nt16_0', 'nt17_nt16_0', 'nt17_nt16_1', 'nt11_nt16_0', 'np17_nt16_0', 'np17_nt16_1']
+nt17:
+	neigbor: ['nt22', 'nt18', 'nt12', 'nt16']
+	ilds_in: ['nt22_nt17_0', 'nt18_nt17_0', 'nt18_nt17_1', 'nt12_nt17_0', 'nt16_nt17_0', 'nt16_nt17_1']
+nt18:
+	neigbor: ['nt23', 'nt19', 'nt13', 'nt17']
+	ilds_in: ['nt23_nt18_0', 'nt19_nt18_0', 'nt19_nt18_1', 'nt13_nt18_0', 'nt17_nt18_0', 'nt17_nt18_1']
+nt19:
+	neigbor: ['nt24', 'nt20', 'nt14', 'nt18']
+	ilds_in: ['nt24_nt19_0', 'nt20_nt19_0', 'nt20_nt19_1', 'nt14_nt19_0', 'nt18_nt19_0', 'nt18_nt19_1']
+nt2:
+	neigbor: ['nt7', 'nt3', 'nt1']
+	ilds_in: ['nt7_nt2_0', 'nt3_nt2_0', 'nt3_nt2_1', 'np2_nt2_0', 'nt1_nt2_0', 'nt1_nt2_1']
+nt20:
+	neigbor: ['nt25', 'nt15', 'nt19']
+	ilds_in: ['nt25_nt20_0', 'np9_nt20_0', 'np9_nt20_1', 'nt15_nt20_0', 'nt19_nt20_0', 'nt19_nt20_1']
+nt21:
+	neigbor: ['nt22', 'nt16']
+	ilds_in: ['np15_nt21_0', 'nt22_nt21_0', 'nt22_nt21_1', 'nt16_nt21_0', 'np16_nt21_0', 'np16_nt21_1']
+nt22:
+	neigbor: ['nt23', 'nt17', 'nt21']
+	ilds_in: ['np14_nt22_0', 'nt23_nt22_0', 'nt23_nt22_1', 'nt17_nt22_0', 'nt21_nt22_0', 'nt21_nt22_1']
+nt23:
+	neigbor: ['nt24', 'nt18', 'nt22']
+	ilds_in: ['np13_nt23_0', 'nt24_nt23_0', 'nt24_nt23_1', 'nt18_nt23_0', 'nt22_nt23_0', 'nt22_nt23_1']
+nt24:
+	neigbor: ['nt25', 'nt19', 'nt23']
+	ilds_in: ['np12_nt24_0', 'nt25_nt24_0', 'nt25_nt24_1', 'nt19_nt24_0', 'nt23_nt24_0', 'nt23_nt24_1']
+nt25:
+	neigbor: ['nt20', 'nt24']
+	ilds_in: ['np11_nt25_0', 'np10_nt25_0', 'np10_nt25_1', 'nt20_nt25_0', 'nt24_nt25_0', 'nt24_nt25_1']
+nt3:
+	neigbor: ['nt8', 'nt4', 'nt2']
+	ilds_in: ['nt8_nt3_0', 'nt4_nt3_0', 'nt4_nt3_1', 'np3_nt3_0', 'nt2_nt3_0', 'nt2_nt3_1']
+nt4:
+	neigbor: ['nt9', 'nt5', 'nt3']
+	ilds_in: ['nt9_nt4_0', 'nt5_nt4_0', 'nt5_nt4_1', 'np4_nt4_0', 'nt3_nt4_0', 'nt3_nt4_1']
+nt5:
+	neigbor: ['nt10', 'nt4']
+	ilds_in: ['nt10_nt5_0', 'np6_nt5_0', 'np6_nt5_1', 'np5_nt5_0', 'nt4_nt5_0', 'nt4_nt5_1']
+nt6:
+	neigbor: ['nt11', 'nt7', 'nt1']
+	ilds_in: ['nt11_nt6_0', 'nt7_nt6_0', 'nt7_nt6_1', 'nt1_nt6_0', 'np19_nt6_0', 'np19_nt6_1']
+nt7:
+	neigbor: ['nt12', 'nt8', 'nt2', 'nt6']
+	ilds_in: ['nt12_nt7_0', 'nt8_nt7_0', 'nt8_nt7_1', 'nt2_nt7_0', 'nt6_nt7_0', 'nt6_nt7_1']
+nt8:
+	neigbor: ['nt13', 'nt9', 'nt3', 'nt7']
+	ilds_in: ['nt13_nt8_0', 'nt9_nt8_0', 'nt9_nt8_1', 'nt3_nt8_0', 'nt7_nt8_0', 'nt7_nt8_1']
+nt9:
+	neigbor: ['nt14', 'nt10', 'nt4', 'nt8']
+	ilds_in: ['nt14_nt9_0', 'nt10_nt9_0', 'nt10_nt9_1', 'nt4_nt9_0', 'nt8_nt9_0', 'nt8_nt9_1']
+
+2022-02-17 07:10:11,063 [INFO] Training: s dim: 780, a dim 298023223876953125, s dim ls: [24, 30, 30, 36, 36, 36, 30, 30, 36, 36, 36, 30, 30, 24, 30, 30, 30, 24, 30, 30, 24, 30, 36, 36, 36], a dim ls: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+2022-02-17 07:12:13,078 [WARNING] From /home/madrl/anaconda3/envs/madrl/lib/python3.8/site-packages/tensorflow/python/training/rmsprop.py:192: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2022-02-17 07:58:42,215 [INFO] Training: global step 10000, episode step 640,
+                                   r: -1773.40, train r: -1773.40, done: False
+2022-02-17 08:30:25,242 [INFO] Training: global step 20000, episode step 560,
+                                   r: -1343.00, train r: -1343.00, done: False
+2022-02-17 09:00:15,302 [INFO] Training: global step 30000, episode step 480,
+                                   r: -780.60, train r: -780.60, done: False
+2022-02-17 09:29:34,101 [INFO] Training: global step 40000, episode step 400,
+                                   r: -715.60, train r: -715.60, done: False
+2022-02-17 09:58:48,860 [INFO] Training: global step 50000, episode step 320,
+                                   r: -624.40, train r: -624.40, done: False
+2022-02-17 10:27:58,135 [INFO] Training: global step 60000, episode step 240,
+                                   r: -374.40, train r: -374.40, done: False
+2022-02-17 10:57:03,622 [INFO] Training: global step 70000, episode step 160,
+                                   r: -404.40, train r: -404.40, done: False
+2022-02-17 11:26:01,509 [INFO] Training: global step 80000, episode step 80,
+                                   r: -190.60, train r: -190.60, done: False
+2022-02-17 11:55:54,335 [INFO] Training: global step 90000, episode step 720,
+                                   r: -1749.60, train r: -1749.60, done: True
+2022-02-17 12:26:08,766 [INFO] Training: global step 100000, episode step 640,
+                                   r: -2839.80, train r: -2839.80, done: False
+2022-02-17 12:55:51,199 [INFO] Training: global step 110000, episode step 560,
+                                   r: -1446.80, train r: -1446.80, done: False
+2022-02-17 13:23:42,997 [INFO] Training: global step 120000, episode step 480,
+                                   r: -618.80, train r: -618.80, done: False
+2022-02-17 13:51:26,882 [INFO] Training: global step 130000, episode step 400,
+                                   r: -558.60, train r: -558.60, done: False
+2022-02-17 14:19:32,935 [INFO] Training: global step 140000, episode step 320,
+                                   r: -758.60, train r: -758.60, done: False
+2022-02-17 14:48:03,477 [INFO] Training: global step 150000, episode step 240,
+                                   r: -456.00, train r: -456.00, done: False
+2022-02-17 15:17:08,140 [INFO] Training: global step 160000, episode step 160,
+                                   r: -468.40, train r: -468.40, done: False
+2022-02-17 15:46:04,251 [INFO] Training: global step 170000, episode step 80,
+                                   r: -247.00, train r: -247.00, done: False
+2022-02-17 16:14:26,888 [INFO] Training: global step 180000, episode step 720,
+                                   r: -3036.00, train r: -3036.00, done: True
+2022-02-17 16:43:15,515 [INFO] Training: global step 190000, episode step 640,
+                                   r: -3087.00, train r: -3087.00, done: False
+2022-02-17 17:12:49,516 [INFO] Training: global step 200000, episode step 560,
+                                   r: -1821.80, train r: -1821.80, done: False
+2022-02-17 17:42:11,861 [INFO] Training: global step 210000, episode step 480,
+                                   r: -1280.20, train r: -1280.20, done: False
+2022-02-17 18:11:17,072 [INFO] Training: global step 220000, episode step 400,
+                                   r: -1413.40, train r: -1413.40, done: False
+2022-02-17 18:40:32,550 [INFO] Training: global step 230000, episode step 320,
+                                   r: -756.40, train r: -756.40, done: False
+2022-02-17 19:09:59,623 [INFO] Training: global step 240000, episode step 240,
+                                   r: -598.80, train r: -598.80, done: False
+2022-02-17 19:39:21,849 [INFO] Training: global step 250000, episode step 160,
+                                   r: -596.60, train r: -596.60, done: False
+2022-02-17 20:08:39,437 [INFO] Training: global step 260000, episode step 80,
+                                   r: -176.80, train r: -176.80, done: False
+2022-02-17 20:38:11,273 [INFO] Training: global step 270000, episode step 720,
+                                   r: -2582.40, train r: -2582.40, done: True
+2022-02-17 21:06:57,447 [INFO] Training: global step 280000, episode step 640,
+                                   r: -2506.80, train r: -2506.80, done: False
+2022-02-17 21:34:59,015 [INFO] Training: global step 290000, episode step 560,
+                                   r: -2693.60, train r: -2693.60, done: False
+2022-02-17 22:02:27,267 [INFO] Training: global step 300000, episode step 480,
+                                   r: -1224.00, train r: -1224.00, done: False
+2022-02-17 22:30:14,466 [INFO] Training: global step 310000, episode step 400,
+                                   r: -1428.20, train r: -1428.20, done: False
+2022-02-17 22:58:28,440 [INFO] Training: global step 320000, episode step 320,
+                                   r: -550.40, train r: -550.40, done: False
+2022-02-17 23:26:53,443 [INFO] Training: global step 330000, episode step 240,
+                                   r: -316.40, train r: -316.40, done: False
+2022-02-17 23:54:57,300 [INFO] Training: global step 340000, episode step 160,
+                                   r: -202.20, train r: -202.20, done: False
+2022-02-18 00:23:29,704 [INFO] Training: global step 350000, episode step 80,
+                                   r: -144.00, train r: -144.00, done: False
+2022-02-18 00:51:41,311 [INFO] Training: global step 360000, episode step 720,
+                                   r: -1069.60, train r: -1069.60, done: True
+2022-02-18 01:19:31,794 [INFO] Training: global step 370000, episode step 640,
+                                   r: -1711.80, train r: -1711.80, done: False
+2022-02-18 01:46:41,267 [INFO] Training: global step 380000, episode step 560,
+                                   r: -884.60, train r: -884.60, done: False
+2022-02-18 02:14:17,733 [INFO] Training: global step 390000, episode step 480,
+                                   r: -905.00, train r: -905.00, done: False
+2022-02-18 02:42:31,831 [INFO] Training: global step 400000, episode step 400,
+                                   r: -732.80, train r: -732.80, done: False
+2022-02-18 03:10:51,388 [INFO] Training: global step 410000, episode step 320,
+                                   r: -678.60, train r: -678.60, done: False
+2022-02-18 03:37:48,067 [INFO] Training: global step 420000, episode step 240,
+                                   r: -421.40, train r: -421.40, done: False
+2022-02-18 04:05:09,632 [INFO] Training: global step 430000, episode step 160,
+                                   r: -211.60, train r: -211.60, done: False
+2022-02-18 04:33:38,500 [INFO] Training: global step 440000, episode step 80,
+                                   r: -150.40, train r: -150.40, done: False
+2022-02-18 05:02:32,812 [INFO] Training: global step 450000, episode step 720,
+                                   r: -1652.80, train r: -1652.80, done: True
+2022-02-18 05:31:29,728 [INFO] Training: global step 460000, episode step 640,
+                                   r: -1598.60, train r: -1598.60, done: False
+2022-02-18 05:59:54,017 [INFO] Training: global step 470000, episode step 560,
+                                   r: -1383.60, train r: -1383.60, done: False
+2022-02-18 06:28:49,025 [INFO] Training: global step 480000, episode step 480,
+                                   r: -1811.00, train r: -1811.00, done: False
+2022-02-18 06:57:45,908 [INFO] Training: global step 490000, episode step 400,
+                                   r: -1054.80, train r: -1054.80, done: False
+2022-02-18 07:27:17,431 [INFO] Training: global step 500000, episode step 320,
+                                   r: -535.80, train r: -535.80, done: False
+2022-02-18 07:56:12,907 [INFO] Training: global step 510000, episode step 240,
+                                   r: -715.60, train r: -715.60, done: False
+2022-02-18 08:26:44,451 [INFO] Training: global step 520000, episode step 160,
+                                   r: -214.40, train r: -214.40, done: False
+2022-02-18 08:57:26,784 [INFO] Training: global step 530000, episode step 80,
+                                   r: -223.80, train r: -223.80, done: False
+2022-02-18 09:29:02,939 [INFO] Training: global step 540000, episode step 720,
+                                   r: -3904.00, train r: -3904.00, done: True
+2022-02-18 10:00:10,817 [INFO] Training: global step 550000, episode step 640,
+                                   r: -2800.20, train r: -2800.20, done: False
+2022-02-18 10:31:16,276 [INFO] Training: global step 560000, episode step 560,
+                                   r: -3995.40, train r: -3995.40, done: False
+2022-02-18 11:02:11,789 [INFO] Training: global step 570000, episode step 480,
+                                   r: -2500.00, train r: -2500.00, done: False
+2022-02-18 11:33:12,440 [INFO] Training: global step 580000, episode step 400,
+                                   r: -3075.20, train r: -3075.20, done: False
+2022-02-18 12:03:55,392 [INFO] Training: global step 590000, episode step 320,
+                                   r: -1051.40, train r: -1051.40, done: False
+2022-02-18 12:34:50,329 [INFO] Training: global step 600000, episode step 240,
+                                   r: -805.20, train r: -805.20, done: False
+2022-02-18 13:06:00,980 [INFO] Training: global step 610000, episode step 160,
+                                   r: -385.40, train r: -385.40, done: False
+2022-02-18 13:36:55,102 [INFO] Training: global step 620000, episode step 80,
+                                   r: -204.40, train r: -204.40, done: False
+2022-02-18 14:07:13,533 [INFO] Training: global step 630000, episode step 720,
+                                   r: -3824.40, train r: -3824.40, done: True
+2022-02-18 14:36:36,981 [INFO] Training: global step 640000, episode step 640,
+                                   r: -3693.20, train r: -3693.20, done: False
+2022-02-18 15:06:13,341 [INFO] Training: global step 650000, episode step 560,
+                                   r: -2905.60, train r: -2905.60, done: False
+2022-02-18 15:36:14,803 [INFO] Training: global step 660000, episode step 480,
+                                   r: -3287.40, train r: -3287.40, done: False
+2022-02-18 16:06:14,979 [INFO] Training: global step 670000, episode step 400,
+                                   r: -1446.80, train r: -1446.80, done: False
+2022-02-18 16:36:05,105 [INFO] Training: global step 680000, episode step 320,
+                                   r: -1195.40, train r: -1195.40, done: False
+2022-02-18 17:05:10,893 [INFO] Training: global step 690000, episode step 240,
+                                   r: -335.20, train r: -335.20, done: False
+2022-02-18 17:33:54,396 [INFO] Training: global step 700000, episode step 160,
+                                   r: -202.00, train r: -202.00, done: False
+2022-02-18 18:02:44,412 [INFO] Training: global step 710000, episode step 80,
+                                   r: -190.60, train r: -190.60, done: False
+2022-02-18 18:31:12,689 [INFO] Training: global step 720000, episode step 720,
+                                   r: -1103.60, train r: -1103.60, done: True
+2022-02-18 18:59:29,531 [INFO] Training: global step 730000, episode step 640,
+                                   r: -2211.40, train r: -2211.40, done: False
+2022-02-18 19:27:00,392 [INFO] Training: global step 740000, episode step 560,
+                                   r: -1296.20, train r: -1296.20, done: False
+2022-02-18 19:54:37,381 [INFO] Training: global step 750000, episode step 480,
+                                   r: -987.60, train r: -987.60, done: False
+2022-02-18 20:22:38,310 [INFO] Training: global step 760000, episode step 400,
+                                   r: -753.60, train r: -753.60, done: False
+2022-02-18 20:50:55,116 [INFO] Training: global step 770000, episode step 320,
+                                   r: -749.20, train r: -749.20, done: False
+2022-02-18 21:18:59,327 [INFO] Training: global step 780000, episode step 240,
+                                   r: -315.20, train r: -315.20, done: False
+2022-02-18 21:46:39,699 [INFO] Training: global step 790000, episode step 160,
+                                   r: -219.00, train r: -219.00, done: False
+2022-02-18 22:13:46,310 [INFO] Training: global step 800000, episode step 80,
+                                   r: -163.80, train r: -163.80, done: False
+2022-02-18 22:40:16,647 [INFO] Training: global step 810000, episode step 720,
+                                   r: -702.80, train r: -702.80, done: True
+2022-02-18 23:05:59,423 [INFO] Training: global step 820000, episode step 640,
+                                   r: -828.60, train r: -828.60, done: False
+2022-02-18 23:32:43,996 [INFO] Training: global step 830000, episode step 560,
+                                   r: -619.80, train r: -619.80, done: False
+2022-02-18 23:59:58,733 [INFO] Training: global step 840000, episode step 480,
+                                   r: -896.80, train r: -896.80, done: False
+2022-02-19 00:27:39,817 [INFO] Training: global step 850000, episode step 400,
+                                   r: -574.80, train r: -574.80, done: False
+2022-02-19 00:55:45,171 [INFO] Training: global step 860000, episode step 320,
+                                   r: -405.40, train r: -405.40, done: False
+2022-02-19 01:23:30,302 [INFO] Training: global step 870000, episode step 240,
+                                   r: -407.60, train r: -407.60, done: False
+2022-02-19 01:50:45,165 [INFO] Training: global step 880000, episode step 160,
+                                   r: -263.20, train r: -263.20, done: False
+2022-02-19 02:18:48,063 [INFO] Training: global step 890000, episode step 80,
+                                   r: -130.40, train r: -130.40, done: False
+2022-02-19 02:46:56,088 [INFO] Training: global step 900000, episode step 720,
+                                   r: -3695.00, train r: -3695.00, done: True
+2022-02-19 03:14:34,773 [INFO] Training: global step 910000, episode step 640,
+                                   r: -769.00, train r: -769.00, done: False
+2022-02-19 03:41:53,565 [INFO] Training: global step 920000, episode step 560,
+                                   r: -681.40, train r: -681.40, done: False
+2022-02-19 04:09:26,939 [INFO] Training: global step 930000, episode step 480,
+                                   r: -820.40, train r: -820.40, done: False
+2022-02-19 04:36:19,256 [INFO] Training: global step 940000, episode step 400,
+                                   r: -750.00, train r: -750.00, done: False
+2022-02-19 05:03:07,605 [INFO] Training: global step 950000, episode step 320,
+                                   r: -427.60, train r: -427.60, done: False
+2022-02-19 05:30:00,246 [INFO] Training: global step 960000, episode step 240,
+                                   r: -349.20, train r: -349.20, done: False
+2022-02-19 05:57:07,441 [INFO] Training: global step 970000, episode step 160,
+                                   r: -139.40, train r: -139.40, done: False
+2022-02-19 06:23:02,068 [INFO] Training: global step 980000, episode step 80,
+                                   r: -148.60, train r: -148.60, done: False
+2022-02-19 06:48:21,568 [INFO] Training: global step 990000, episode step 720,
+                                   r: -371.00, train r: -371.00, done: True
+2022-02-19 07:13:38,312 [INFO] Training: global step 1000000, episode step 640,
+                                   r: -576.60, train r: -576.60, done: False
+2022-02-19 07:13:51,175 [INFO] Training: save final model at step 1000080 ...
